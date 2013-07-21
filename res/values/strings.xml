@@ -1,14 +1,40 @@
 <resources>
-    <string name="app_name">Shopping list</string>
-    <string-array name="planets_array">
+    <string name="app_name">Список покупок</string>
+    <string-array name="carts_array">
         <item>Закупка в ашане</item>
-        <item>Продуктовый рядом</item>
-        <item>Рынок</item>
-        <item>Строительный</item>
-        <item>Ремонт дома</item>
-        <item>Важное</item>
-        <item>Заметки</item>
+        <item>Аптека</item>
+        <item>Сделать</item>
     </string-array>
+
+    <string-array name="cart1_array">
+        <item>Соль</item>
+        <item>Спички</item>
+        <item>Хлеб</item>
+        <item>Сало</item>
+        <item>Водка</item>
+        <item>Селедка</item>
+        <item>Огурцы</item>
+    </string-array>
+
+    <string-array name="cart2_array">
+        <item>Анальгин</item>
+        <item>Аспирин</item>
+        <item>Пластырь</item>
+        <item>Витамины</item>
+        <item>Бинт</item>
+        <item>Активированный уголь</item>
+    </string-array>
+
+    <string-array name="cart3_array">
+        <item>Вымыть посуду</item>
+        <item>Почистить картошку</item>
+        <item>Купить продукты</item>
+        <item>Забронировать билет</item>
+        <item>Доделать реферат</item>
+        <item>Запись на прием</item>
+        <item>Поздравить с ДР Женька</item>
+    </string-array>
+
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="action_websearch">Web search</string>
