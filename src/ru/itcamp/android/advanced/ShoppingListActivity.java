@@ -1,6 +1,4 @@
-package com.example.android.navigationdrawerexample;
-
-import java.util.Locale;
+package ru.itcamp.android.advanced;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -21,11 +19,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-public class MainActivity extends Activity {
+public class ShoppingListActivity extends Activity {
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
     private ActionBarDrawerToggle mDrawerToggle;
